@@ -1,12 +1,9 @@
-# Assignment-01-Arrays
-**Placement Training Assignment 01 – Arrays**
+# Assignment-04-Arrays
+**Placement Training Assignment 04 – Arrays**
+Return a new array after removing only consecutive duplicate element
 
-1. Find the next 15 leap years from the year passed as parameter to the findLeapYears() method. Include the year passed as parameter if it is a leap year. Implement the logic inside findLeapYears() method and return an int array containing all the leap years. Test the functionalities using the main method of the Tester class.
+**Sample Input**
+1 1 2 2 2 3 4 4 5
 
-[Hint: Any year which is divisible by 4 and not by 100 are leap years. Otherwise, any year which is divisible by 400 is also a leap year]
-
-**Sample Input:**
-2000
-
-**Expected Output:**
-2000 2004 2008 2012 2016 2020 2024 2028 2032 2036 2040 2044 2048 2052 2056
+**Expected Output**
+1 2 3 4 5
